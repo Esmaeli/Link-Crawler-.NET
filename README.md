@@ -7,7 +7,7 @@ Link Crawler is a lightweight C# Console Application designed to quickly extract
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Esmaeli/WebpageLinkCrawler.git
+    git clone https://github.com/Esmaeli/Link-Crawler-.NET.git
     ```
 
 2. **Run the Application:**
