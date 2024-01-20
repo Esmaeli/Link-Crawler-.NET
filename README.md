@@ -1,6 +1,6 @@
-# Link-Crawler-.NET
+# Link Crawler .NET
 
-Webpage Link Crawler is a lightweight C# Console Application designed to quickly extract and save links from a single webpage. It utilizes HtmlAgilityPack for efficient HTML parsing.
+Link Crawler is a lightweight C# Console Application designed to quickly extract and save links from a single webpage. It utilizes HtmlAgilityPack for efficient HTML parsing.
 
 ## Usage
 
