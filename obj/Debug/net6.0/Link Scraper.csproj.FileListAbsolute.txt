@@ -1,0 +1,17 @@
+G:\Github\Link Scraper\bin\Debug\net6.0\Link Scraper.exe
+G:\Github\Link Scraper\bin\Debug\net6.0\Link Scraper.deps.json
+G:\Github\Link Scraper\bin\Debug\net6.0\Link Scraper.runtimeconfig.json
+G:\Github\Link Scraper\bin\Debug\net6.0\Link Scraper.dll
+G:\Github\Link Scraper\bin\Debug\net6.0\Link Scraper.pdb
+G:\Github\Link Scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.csproj.AssemblyReference.cache
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.AssemblyInfoInputs.cache
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.AssemblyInfo.cs
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.csproj.CoreCompileInputs.cache
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.csproj.CopyComplete
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.dll
+G:\Github\Link Scraper\obj\Debug\net6.0\refint\Link Scraper.dll
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.pdb
+G:\Github\Link Scraper\obj\Debug\net6.0\Link Scraper.genruntimeconfig.cache
+G:\Github\Link Scraper\obj\Debug\net6.0\ref\Link Scraper.dll

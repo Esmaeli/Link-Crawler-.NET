@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1JE39fWFJMUBl+0E/yRc4KcublBLY1UzrwntUMcGRXGI5pnxEK/LOh+kAyAs87bRzYEIjBD8PQg6TFCQCmw/g==",
+  "success": true,
+  "projectFilePath": "G:\\Github\\Link Scraper\\Link Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esmaeli\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}
